@@ -437,7 +437,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   -moz-osx-font-smoothing: grayscale; }
 
 .icon-instagram:before {
-  content: "\e600"; }
+  content: "\e610"; }
 
 .icon-pixiv:before {
   content: "\e601"; }
