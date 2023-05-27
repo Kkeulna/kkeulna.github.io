@@ -436,10 +436,10 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.icon-googleplus:before {
+.icon-instagram:before {
   content: "\e600"; }
 
-.icon-facebook:before {
+.icon-pixiv:before {
   content: "\e601"; }
 
 .icon-twitter:before {
@@ -447,15 +447,6 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
 
 .icon-feed:before {
   content: "\e603"; }
-
-.icon-github:before {
-  content: "\e604"; }
-
-.icon-tumblr:before {
-  content: "\e605"; }
-
-.icon-linkedin:before {
-  content: "\e606"; }
 
 [class^="icon-"], [class*=" icon-"]:hover {
   -moz-transition: all .2s ease-in;
