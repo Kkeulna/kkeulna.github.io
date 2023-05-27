@@ -457,10 +457,10 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-.icon-googleplus:hover {
+.icon-instagram:hover {
   color: #dd4b39; }
 
-.icon-facebook:hover {
+.icon-pixiv:hover {
   color: #3b5998; }
 
 .icon-twitter:hover {
@@ -468,15 +468,6 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
 
 .icon-feed:hover {
   color: #ff7900; }
-
-.icon-github:hover {
-  color: #000; }
-
-.icon-tumblr:hover {
-  color: #32506d; }
-
-.icon-linkedin:hover {
-  color: #007bb6; }
 
 /**
  * Reset some basic elements
