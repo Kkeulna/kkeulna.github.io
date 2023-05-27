@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Illustration
+permalink: /
 --- 
 
 <script> 
