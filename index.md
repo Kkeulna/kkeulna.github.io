@@ -1,5 +1,8 @@
 ---
 layout: gallery
 title: Illustration
-permalink: /about/
 --- 
+
+<script> 
+window.location.href = 'https://kkeulna.github.io/about/';
+</script>
