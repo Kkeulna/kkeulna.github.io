@@ -11,8 +11,6 @@ github:
 
 header: images/logo.png
 
-home: /about/
-
 # stats
 remote_theme: FredEkstrand/jekyll-theme-slateb
 
