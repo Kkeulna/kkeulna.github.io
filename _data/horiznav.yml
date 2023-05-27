@@ -9,25 +9,6 @@
     - subtitle: "acting"
       subhref: "/projects/acting/"
 
-    - subtitle: "digital-art"
-      subhref: "/projects/digital-art/"
-
-    - subtitle: "music"
-      subhref: "/projects/music/"
-
-    - subtitle: "puppetry"
-      subhref: "/projects/puppetry/"
-
-    - subtitle: "sewing"
-      subhref: "/projects/sewing/"
-
-    - subtitle: "writing"
-      subhref: "/projects/writing/"
-   
-
-- title: "blog"
-  href: "/blog/"
-
 - title: "about"
   href: "/about/"
   
