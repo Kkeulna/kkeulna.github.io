@@ -1,13 +1,13 @@
 # Site settings
-title: Charlie Bunt Portfolio
-email: buntcharlie@gmail.com
-author: Charlie Bunt
+title: 그림 그리는 끌나
+email: kkeulna775859@gmail.com
+author: 끌나 the potato
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: portfolio site for digital motion and vector art
+description: 그림 그리는 그저 평범한 감자입니다.
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://charliebunt.github.io"
+  url: "https://kkeulna.github.io"
 
 header: images/logo.png
 
@@ -55,6 +55,6 @@ facebook_page:                                  #the URL of your Facebook Page
 facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
-twitter_user: 
+twitter_user: rjseka7758
 twitter_card: true
 twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
