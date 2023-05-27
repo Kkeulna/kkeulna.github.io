@@ -1,5 +1,5 @@
 ---
 layout: gallery
 title: Illustration
-permlink: /about/
+permalink: /about/
 --- 
