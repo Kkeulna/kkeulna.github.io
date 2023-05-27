@@ -1,5 +1,5 @@
 ---
 layout: gallery
 title: Illustration
-permalink: "/illustration/"
+permalink: "README.html"
 --- 
